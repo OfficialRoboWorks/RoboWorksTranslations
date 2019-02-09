@@ -1,0 +1,13 @@
+//SMZ S3D Stock
+item.smzS3D_stock(Beige).name=SMZ-S3D Stock (Beige)
+item.smzS3D_stock(Blue).name=SMZ-S3D Stock (Blue)
+item.smzS3D_stock(Brown).name=SMZ-S3D Stock (Brown)
+item.smzS3D_stock(Cyan).name=SMZ-S3D Stock (Cyan)
+item.smzS3D_stock(Green).name=SMZ-S3D Stock (Green)
+item.smzS3D_stock(Grey).name=SMZ-S3D Stock (Grey)
+item.smzS3D_stock(LightBlue).name=SMZ-S3D Stock (Light Blue)
+item.smzS3D_stock(Lime).name=SMZ-S3D Stock (Lime)
+item.smzS3D_stock(Orange).name=SMZ-S3D Stock (Orange)
+item.smzS3D_stock(Red).name=SMZ-S3D Stock (Red)
+item.smzS3D_stock(White).name=SMZ-S3D Stock (White)
+item.smzS3D_stock(Yellow).name=SMZ-S3D Stock (Yellow)
