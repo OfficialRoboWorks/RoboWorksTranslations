@@ -1,0 +1,13 @@
+//SMZ S3D Stock
+item.smzS3D_stock(Beige).name=СМЗ-С3Д Сток (Бежевый)
+item.smzS3D_stock(Blue).name=СМЗ-С3Д Сток (Синий)
+item.smzS3D_stock(Brown).name=СМЗ-С3Д Сток (Коричневый)
+item.smzS3D_stock(Cyan).name=СМЗ-С3Д Сток (Циановый)
+item.smzS3D_stock(Green).name=СМЗ-С3Д Сток (Зелёный)
+item.smzS3D_stock(Grey).name=СМЗ-С3Д Сток (Серый)
+item.smzS3D_stock(LightBlue).name=СМЗ-С3Д Сток (Голубой)
+item.smzS3D_stock(Lime).name=СМЗ-С3Д Сток (Лаймовый)
+item.smzS3D_stock(Orange).name=СМЗ-С3Д Сток (Оранжевый)
+item.smzS3D_stock(Red).name=СМЗ-С3Д Сток (Красный)
+item.smzS3D_stock(White).name=СМЗ-С3Д Сток (Белый)
+item.smzS3D_stock(Yellow).name=СМЗ-С3Д Сток (Жёлтый)
